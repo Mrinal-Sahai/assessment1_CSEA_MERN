@@ -1,0 +1,21 @@
+form
+{
+    align-items: center;
+    font-size:x-large;
+    border: 2px solid;
+    padding: 20px;
+}
+button{
+    padding: 5px;
+    font-weight: 400;
+    font-size: large;
+}
+input{
+    font-size: large;
+    align-items: center;
+    width: 600px;
+    padding: 5px;
+}
+
+
+
